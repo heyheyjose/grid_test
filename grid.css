@@ -46,14 +46,14 @@
 	padding: 10px 0 0 10px;
 }
 
+.grid-padding:last-of-type {
+	padding-bottom: 10px;
+}
+
 .grid-padding:after {
 	content: '';
 	display: table;
 	clear: both;
-}
-
-.apply-to-last-grid {
-	padding-bottom: 10px;
 }
 
 /* this is the style section */
